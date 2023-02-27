@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\loops(task2)\bin\Debug\net6.0\loops(task2).exe
+C:\Users\User\source\repos\loops(task2)\bin\Debug\net6.0\loops(task2).deps.json
+C:\Users\User\source\repos\loops(task2)\bin\Debug\net6.0\loops(task2).runtimeconfig.json
+C:\Users\User\source\repos\loops(task2)\bin\Debug\net6.0\loops(task2).dll
+C:\Users\User\source\repos\loops(task2)\bin\Debug\net6.0\loops(task2).pdb
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).AssemblyInfo.cs
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).dll
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\refint\loops(task2).dll
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).pdb
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\loops(task2).genruntimeconfig.cache
+C:\Users\User\source\repos\loops(task2)\obj\Debug\net6.0\ref\loops(task2).dll
